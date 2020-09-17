@@ -1,0 +1,2 @@
+500,1500,1000,5,
+% duration,latency,ITI,practice_count(연습 횟수),
